@@ -1,0 +1,5 @@
+config.ini
+state.json
+state.json.tmp
+*.log
+__pycache__/
